@@ -2,7 +2,8 @@
 
 > Linux 打底，DeepSeek Harness 当界面。开机不是打开一个 App，而是**进入这套系统**。
 
-- **可点原型** → [index.html](./index.html)（也可以直接访问本站首页，就是它）
+- **在线原型** → https://2405646728.github.io/dsh-os/ （直接用浏览器打开就是这个界面）
+- **原型源码** → [index.html](./index.html)
 - **方向与决策脑图** → [docs/DSH-系统化方向.md](./docs/DSH-系统化方向.md)
 - **系统人设定稿** → [docs/DSH-系统-人设-v2.md](./docs/DSH-系统-人设-v2.md)
 
